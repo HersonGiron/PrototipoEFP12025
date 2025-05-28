@@ -35,11 +35,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/Catalogos.h" />
 		<Unit filename="include/Seguridad.h" />
 		<Unit filename="include/menuGeneral.h" />
 		<Unit filename="include/sistema.h" />
 		<Unit filename="include/usuarios.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Catalogos.cpp" />
 		<Unit filename="src/Seguridad.cpp" />
 		<Unit filename="src/menuGeneral.cpp" />
 		<Unit filename="src/sistema.cpp" />
