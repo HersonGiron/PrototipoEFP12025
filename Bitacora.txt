@@ -1,0 +1,17 @@
+commit 3d220b0aa1b5933bf16bf074fa6df8a29b5875aa
+Author: [Herson <[Herson>
+Date:   Wed May 28 10:55:50 2025 -0600
+
+    Se agrega la clase Catalogos
+
+commit ef03ce1e1543ba89e4a3cea096936702c2f04522
+Author: [Herson <[Herson>
+Date:   Wed May 28 10:47:55 2025 -0600
+
+    Menu general del examen final junto con los usuarios
+
+commit 23e101404da31e2bbba3cec81799fe0142ac15e4
+Author: Herson Girón <gironnnherson@gmail.com>
+Date:   Wed May 28 09:34:56 2025 -0600
+
+    Initial commit
