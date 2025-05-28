@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\giron\onedrive\documentos\universidad umg 2025\programacion 1\prototipoefp12025\prototipoefp12025.\main.cpp
+	<iostream>
+
+1748448117 source:c:\users\giron\onedrive\documentos\universidad umg 2025\programacion 1\prototipoefp12025\prototipoefp12025.\src\menugeneral.cpp
+	"MenuGeneral.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1748447643 c:\users\giron\onedrive\documentos\universidad umg 2025\programacion 1\prototipoefp12025\prototipoefp12025.\include\menugeneral.h
+	<iostream>
+
+1748449357 source:c:\users\giron\onedrive\documentos\universidad umg 2025\programacion 1\prototipoefp12025\prototipoefp12025\main.cpp
+	<iostream>
+	<fstream>
+	<limits>
+	"Opciones.h"
+	"usuarios.h"
+	"sistema.h"
+
+1748449986 c:\users\giron\onedrive\documentos\universidad umg 2025\programacion 1\prototipoefp12025\prototipoefp12025\include\menugeneral.h
+	<iostream>
+
+1748449986 source:c:\users\giron\onedrive\documentos\universidad umg 2025\programacion 1\prototipoefp12025\prototipoefp12025\src\menugeneral.cpp
+	"menuGeneral.h"
+	<iostream>
+	"Seguridad.h"
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1748449218 source:c:\users\giron\onedrive\documentos\universidad umg 2025\programacion 1\prototipoefp12025\prototipoefp12025\src\usuarios.cpp
+	"usuarios.h"
+
+1748449218 c:\users\giron\onedrive\documentos\universidad umg 2025\programacion 1\prototipoefp12025\prototipoefp12025\include\usuarios.h
+
+1748450004 source:c:\users\giron\onedrive\documentos\universidad umg 2025\programacion 1\prototipoefp12025\prototipoefp12025\src\sistema.cpp
+	"sistema.h"
+	"MenuGeneral.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<limits>
+	<vector>
+
+1748450362 c:\users\giron\onedrive\documentos\universidad umg 2025\programacion 1\prototipoefp12025\prototipoefp12025\include\sistema.h
+	<fstream>
+	<vector>
+	<limits>
+	"usuarios.h"
+
+1748449336 c:\users\giron\onedrive\documentos\universidad umg 2025\programacion 1\prototipoefp12025\prototipoefp12025\include\opciones.h
+	<iostream>
+
+1748450543 source:c:\users\giron\onedrive\documentos\universidad umg 2025\programacion 1\prototipoefp12025\prototipoefp12025\src\seguridad.cpp
+	"Seguridad.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<ctime>
+	<limits>
+
+1748450362 c:\users\giron\onedrive\documentos\universidad umg 2025\programacion 1\prototipoefp12025\prototipoefp12025\include\seguridad.h
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<sstream>
+	<chrono>
+	<ctime>
+	<iomanip>
+	<filesystem>
+
+1748449674 source:c:\users\giron\onedrive\documentos\universidad umg 2025\programacion 1\prototipoefp12025\prototipoefp12025\src\opciones.cpp
+	"Opciones.h"
+	<iostream>
+	"Seguridad.h"
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
